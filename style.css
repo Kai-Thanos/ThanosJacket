@@ -35,7 +35,7 @@ ul {
     text-decoration: none;
     text-transform: uppercase;
     font-size: 10px;
-    color: rgb(255, 0, 0);
+    color: rgb(60, 255, 0);
     display: block;
     margin: 15px;
     transition: 0.3s;
@@ -46,7 +46,7 @@ ul {
 }
 
 .menu ul li a img {
-    height: 23px;
+    height: 20px;
 }
 
 /* /navigation */
