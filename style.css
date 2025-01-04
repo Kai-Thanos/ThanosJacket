@@ -34,7 +34,7 @@ ul {
     font-family: "Roboto", serif;
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 14px;
+    font-size: 10px;
     color: rgb(255, 0, 0);
     display: block;
     margin: 15px;
@@ -46,7 +46,7 @@ ul {
 }
 
 .menu ul li a img {
-    height: 30px;
+    height: 23px;
 }
 
 /* /navigation */
