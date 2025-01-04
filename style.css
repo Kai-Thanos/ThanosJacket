@@ -35,7 +35,7 @@ ul {
     text-decoration: none;
     text-transform: uppercase;
     font-size: 10px;
-    color: rgb(60, 255, 0);
+    color: rgb(255, 255, 255);
     display: block;
     margin: 15px;
     transition: 0.3s;
@@ -57,7 +57,6 @@ ul {
 .slide-container .img-slide {
     height: 240px;
     position: relative;
-    background-color: seagreen;
     padding: 0;
 }
 
@@ -266,7 +265,7 @@ ul {
     display: block;
     margin-right: 135px;
     transition: 0.3s;
-    font-size: 13px;
+    font-size: 11px;
     padding-block: 7px;
 }
 
@@ -308,6 +307,14 @@ ul {
 @media (min-width: 576px) {
     .slide-container .img-slide {
         height: 340px;
+    }
+
+    .menu ul li a {
+        font-size: 15px;
+    }
+
+    .menu ul li a img {
+        height: 27px;
     }
 }
 
